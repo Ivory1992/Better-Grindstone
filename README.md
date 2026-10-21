@@ -3,7 +3,7 @@ Get back your enchantments from tools you no more use with the grindstone
 
 
 ## Features
-- allow getting back enchantments from tools
+- allow getting back enchantments from items
 
 ## Requirements
 - Minecraft 1.21.1
