@@ -10,4 +10,4 @@ Get back your enchantments from tools you no more use with the grindstone
 - Neoforge 21.1.250
 
 ## License
-Mit License. See LICENSE
+Mit License. See [LICENSE](LICENSE)
