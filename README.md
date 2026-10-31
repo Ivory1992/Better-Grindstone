@@ -3,11 +3,11 @@ Get back your enchantments from tools you no more use with the grindstone
 
 
 ## Features
-- allow getting back enchantments from items
+- allow getting back enchantments from tools
 
 ## Requirements
 - Minecraft 1.21.1
-- Neoforge 21.1.250
+- Neoforge 2.1.250
 
 ## License
-Mit License. See [LICENSE](LICENSE)
+Mit
